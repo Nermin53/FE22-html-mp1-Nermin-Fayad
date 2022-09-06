@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(246, 214, 225);
+    font-size: large;
+    font-style: italic;
+    
+}
+
+
+
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+body{
+    padding-inline-end: 20px;
+    padding-bottom: 100px;
+
+}
+
+
+body{
+     font-style: italic;
+     
+}
+
+body{
+    color: blue;
+
+}
+
+h1{
+   color: aqua;
+}
+
+h4{
+    color: rosybrown;
+}
+
+h2{
+    color: olivedrab;
+}
+
+h3{
+    color: azure;
+}
