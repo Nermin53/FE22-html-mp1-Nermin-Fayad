@@ -2,48 +2,68 @@ body{
     background-color: rgb(246, 214, 225);
     font-size: large;
     font-style: italic;
-    
-}
-
-
-
-body{
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 20px;
-    margin-right: 20px;
-
-}
-
-body{
-    padding-inline-end: 20px;
-    padding-bottom: 100px;
-
-}
-
-
-body{
-     font-style: italic;
-     
-}
-
-body{
-    color: blue;
-
+    margin-right: 20px;    
+  
 }
 
 h1{
-   color: aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: palevioletred;
 }
 
-h4{
+
+
+   
+
+
+p:nth-child(1){
+     color: purple;
+     font-style: italic;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+     
+     
+}
+
+
+
+p:nth-child(2){
+   color: rgb(85, 185, 185);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p:nth-child(1){
     color: rosybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h2{
+p:nth-child(3){
+
     color: olivedrab;
 }
 
-h3{
-    color: azure;
+li{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
+
+a:hover{
+    color: gold;
+}
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
